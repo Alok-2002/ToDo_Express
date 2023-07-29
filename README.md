@@ -1,8 +1,8 @@
 # ToDo_Express - Task Management Web App
 
-![ToDo_Express Preview](https://your-image-url.com)
+![image](https://github.com/Alok-2002/ToDo_Express/assets/93814546/c707f250-d687-4a3b-869a-64be2eb18fdb)
 
-Welcome to ToDo_Express, a powerful and user-friendly web application designed to help you manage your tasks with ease. This app is built using HTML, CSS, and JavaScript, providing a seamless and efficient experience for organizing your to-do list. You can access the deployed version of the app at [To Do Express](https://todo-express.vercel.app).
+Welcome to ToDo_Express, a powerful and user-friendly web application designed to help you manage your tasks with ease. This app is built using HTML, CSS, and JavaScript, providing a seamless and efficient experience for organizing your to-do list. You can access the deployed version of the app at [To Do Express](https://to-doexpress.vercel.app).
 
 ## Key Features
 
@@ -13,7 +13,7 @@ Welcome to ToDo_Express, a powerful and user-friendly web application designed t
 
 ## Live Demo
 
-Curious to see ToDo_Express in action? Try the live demo by visiting [ToDo_Express](https://todo-express.vercel.app).
+Curious to see ToDo_Express in action? Try the live demo by visiting [ToDo_Express](https://to-doexpress.vercel.app).
 
 ## Installation
 
@@ -27,8 +27,9 @@ If you want to run ToDo_Express locally on your machine, follow these simple ste
 
 Take a sneak peek at the app's interface through these screenshots:
 
-![Screenshot 1](https://your-screenshot-url.com)
-![Screenshot 2](https://your-screenshot-url.com)
+![image](https://github.com/Alok-2002/ToDo_Express/assets/93814546/d8ca19f3-4417-4ce0-990f-46c1b0aec493)
+![image](https://github.com/Alok-2002/ToDo_Express/assets/93814546/c707f250-d687-4a3b-869a-64be2eb18fdb)
+
 
 ## Contributions
 
